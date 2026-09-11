@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer | Node.js • React • Next.js • MongoDB • MySQL</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sauravhadiya-66a284216" target="_blank">
+  <a href="https://www.linkedin.com/in/saurav-hadiya-66a284216/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sauravhadiya21@gmail.com">
