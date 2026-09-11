@@ -14,12 +14,14 @@
 
 ### 🚀 About Me
 
-I'm a Full-Stack Software Engineer with 2+ years of experience building **scalable web applications, secure APIs, and high-performance frontend systems**. I specialize in the MERN/Next.js stack, with a strong focus on database optimization, authentication & authorization, and performance at scale.
+I'm a Full-Stack Software Engineer with **2+ years of experience** building **scalable web applications, secure APIs, and high-performance frontend systems**. I specialize in the **MERN/Next.js stack**, with a strong focus on **database optimization, authentication & authorization, API security, and performance at scale**.
 
-- 🔭 Created a multi-tenant **LMS & creator platform** with role-based access, payments, and video streaming
-- ⚡ Reduced component render time by **80%** and memory usage by **90%** on a platform handling 100,000+ interactive data records
-- 🔐 Deep experience with RBAC, rate limiting, and secure API design
-- 📚 Outside of code: I read autobiographies and books on technology & innovation
+- 🔭 Built a multi-tenant **LMS & creator platform** with RBAC, **Stripe payments, video streaming, and CDN integration**
+- ⚡ Reduced component render time by **80%** and memory usage by **90%** on a platform handling **100,000+ interactive data records**
+- 🔐 Strong experience with **RBAC, Payment Gateway integration, secure authentication, rate limiting, REST API design, and API security**
+- 🚀 Experienced in **caching, database optimization, large-scale data rendering, and performance optimization**
+- 🤖 Built applications integrating **AI/LLM**
+- 📚 Outside of code: I read **autobiographies and books on technology & innovation**
 - 💼 **Open to full-time Full-Stack / Backend Engineer roles**
 
 ---
