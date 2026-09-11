@@ -3,10 +3,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saurav-hadiya-66a284216/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="38" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:sauravhadiya21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/gmail.png" width="38" alt="Email"/>
   </a>
 </p>
 
@@ -46,6 +47,11 @@ PTE Exam Practice Platform Closed platform where admins create student accounts 
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saurav-hadiya-66a284216/">LinkedIn</a> •
-  <a href="mailto:sauravhadiya21@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/saurav-hadiya-66a284216/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="38" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sauravhadiya21@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" width="38" alt="Email"/>
+  </a>
 </p>
