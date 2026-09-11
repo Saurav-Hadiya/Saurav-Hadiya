@@ -43,19 +43,6 @@ PTE Exam Practice Platform Closed platform where admins create student accounts 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurav-Hadiya&show_icons=true&theme=default&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav-Hadiya&layout=compact&hide_border=true" width="35%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurav-Hadiya&hide_border=true" width="49%" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
