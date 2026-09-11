@@ -60,9 +60,10 @@ I'm a Full-Stack Software Engineer with 2+ years of experience building **scalab
 Full-stack app that automates performance evaluation using AI-driven feedback analysis, cutting manual report prep by 100% and organizational evaluation time by 50%.
 `Next.js` `TypeScript` `Supabase/PostgreSQL` `Google Gemini AI` `TanStack Query`
 
-**[Ecommerce Platform](https://github.com/Saurav-Hadiya/ptepath)**
-Full-stack e-commerce app with product search, real-time cart, secure auth, and Razorpay payment integration. Improved data retrieval efficiency by 30%.
-`React.js` `Node.js` `Express.js` `MongoDB` `RazorPay`
+**[PTEPath](https://github.com/Saurav-Hadiya/ptepath)**
+PTE Exam Practice Platform Closed platform where admins create student accounts and learners drill Speaking, Writing, Reading, and Listening modules. Built with rule-based scoring and AI-powered speech-to-text for the Speaking module. React.js Node.js Express.js MongoDB Speech-to-Text AI
+
+ — 
 
 ---
 
