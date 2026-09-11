@@ -61,9 +61,7 @@ Full-stack app that automates performance evaluation using AI-driven feedback an
 `Next.js` `TypeScript` `Supabase/PostgreSQL` `Google Gemini AI` `TanStack Query`
 
 **[PTEPath](https://github.com/Saurav-Hadiya/ptepath)**
-PTE Exam Practice Platform Closed platform where admins create student accounts and learners drill Speaking, Writing, Reading, and Listening modules. Built with rule-based scoring and AI-powered speech-to-text for the Speaking module. React.js Node.js Express.js MongoDB Speech-to-Text AI
-
- — 
+PTE Exam Practice Platform Closed platform where admins create student accounts and learners drill Speaking, Writing, Reading, and Listening modules. Built with rule-based scoring and AI-powered speech-to-text for the Speaking module. React.js Node.js Express.js MongoDB Speech-to-Text AI 
 
 ---
 
